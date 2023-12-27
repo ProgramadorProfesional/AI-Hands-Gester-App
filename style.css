@@ -1,0 +1,16 @@
+#bodybody
+{
+    background: linear-gradient(orange 0%, red 100%);
+    color: white;
+}
+#camara,#result
+{
+    border: 3px solid black;
+    width: 400px;
+    height: 400px;
+    
+}
+#instantanea
+{
+float: right;
+}
